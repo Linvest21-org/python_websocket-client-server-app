@@ -1,0 +1,14 @@
+This project requires you to build a client server application. The client is a Python based console application. Please build the client by using Python Prompt Toolkit (https://python-prompt-toolkit.readthedocs.io/en/master/) or similar libraray. The server is a Flask based service. To support websock communication, you could use https://pypi.org/project/websocket-client/ and https://flask-socketio.readthedocs.io/en/latest/. 
+
+Main features required are:
+* Support websocket session and two ways communications
+* Support message pushing from server to multiple clients
+* Support message broadcasting
+* Support authentication (Flask-Login or similar)
+* Support Cross-Origin Controls
+
+A successful delivery should include:
+* Full working code base
+* Unit Tests
+* Packaging and distribution to allow client and server being installed separated by using pip command
+* Readme.md
