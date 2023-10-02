@@ -12,3 +12,4 @@ A successful delivery should include:
 * Unit Tests
 * Packaging and distribution to allow client and server being installed separated by using pip command
 * Readme.md
+* Deploy automation to AWS by using GitActions workflow and Terraform Cloud
